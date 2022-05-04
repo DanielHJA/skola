@@ -14,3 +14,11 @@ used throughout the course.
   - PyCharm for Python Code
 - GitHub
 - Jupyter Notebooks for notebook examples.
+
+
+``python
+
+def demo_function():
+  pass
+
+```
