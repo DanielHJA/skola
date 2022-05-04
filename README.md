@@ -16,7 +16,7 @@ used throughout the course.
 - Jupyter Notebooks for notebook examples.
 
 
-``python
+```python
 
 def demo_function():
   pass
